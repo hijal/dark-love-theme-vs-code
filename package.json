@@ -1,0 +1,27 @@
+{
+  "name": "dark-love-coder",
+  "displayName": "dark-love-coder",
+  "description": "code with dark mode",
+  "version": "0.0.1",
+  "publisher": "hijal",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hijal theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-love-coder-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-love-coder-theme-color-theme.json"
+      }
+    ]
+  }
+}
