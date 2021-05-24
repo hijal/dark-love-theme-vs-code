@@ -4,6 +4,10 @@
   "description": "code with dark mode",
   "version": "0.0.1",
   "publisher": "hijal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hijal/dark-love-theme-vs-code"
+  },
   "engines": {
     "vscode": "^1.56.0"
   },
